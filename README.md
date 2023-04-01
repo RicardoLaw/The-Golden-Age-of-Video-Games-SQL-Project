@@ -7,7 +7,7 @@ In this project we analyze a dataset using SQL
 * Exploratory Data Analysis 
 
 
-# Project tasks while analyzing this dataset: 
+# Questions answered / Tasks while analyzing this dataset: 
 
 1. The ten best-selling video games
 2. Missing review scores
